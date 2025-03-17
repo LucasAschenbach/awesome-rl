@@ -12,15 +12,16 @@
   <a href="#publications"><strong>Publications</strong></a> ·
   <a href="#books"><strong>Books</strong></a> ·
   <a href="#courses"><strong>Courses</strong></a> ·
-  <a href="#algorithms"><strong>Algorithms</strong></a> ·
-  <a href="#tools"><strong>Tools</strong></a>
+  <a href="#resources"><strong>Resources</strong></a> ·
+  <a href="#news"><strong>News</strong></a>
 </p>
-<br/****>
+<br/>
 
 ## Publications
 
 **Generalists**
 
+- [Generally capable agents emerge from open-ended play](https://arxiv.org/abs/2107.12808)
 - [GATO: A Generalist Agent](https://arxiv.org/abs/2205.06175)
 - [SIMA: Scaling Instructable Agents Across Many Simulated Worlds](https://arxiv.org/abs/2404.10179)
 - 
@@ -54,7 +55,7 @@
 - [Reinforcement Learning: State-of-the-Art](https://link.springer.com/book/10.1007/978-3-642-27645-3) by Marco Wiering and Martijn van Otter
 - [Artificial Intelligence: A Modern Approach (4th Edition)](http://aima.cs.berkeley.edu/) by Stuart Russell and Peter Norvig
 - [Deep Learning](https://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio, and Aaron Courville
-- [Deep Reinforcement Learning Hands-On](https://www.amazon.com/Deep-Reinforcement-Learning-Hands-Second/dp/1803231951) by Maxim Lapan
+- [Deep Reinforcement Learning Hands-On](https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On) by Maxim Lapan
 
 ## Courses
 
@@ -66,6 +67,7 @@
 
 - [David Silver's Reinforcement Learning Course](https://www.davidsilver.uk/teaching/) at University College London
 - [CS234: Reinforcement Learning, Winter 2025](https://web.stanford.edu/class/cs234/index.html) at Stanford University
+- [CS330: Deep Multi-Task and Meta Learning](https://cs330.stanford.edu/) at Stanford University
 
 **Blogs**
 
@@ -73,11 +75,8 @@
 - [Train a Mario-playing RL Agent](https://pytorch.org/tutorials/intermediate/mario_rl_tutorial.html) from PyTorch
 - [Reinforcement Learning (PPO) with TorchRL](https://pytorch.org/tutorials/intermediate/reinforcement_ppo.html) from PyTorch
 
-## Algorithms
 
--
-
-## Tools
+## Resources
 
 **ML-Libraries**
 
@@ -87,9 +86,27 @@
 
 **Gyms**
 
-- [Gymnasium](https://gymnasium.farama.org/) - An interface for interacting with RL environments.
+- [Gymnasium](https://gymnasium.farama.org/) - General-purpose interface for interacting with custom RL environments.
+- [Gymnasium-Robotics](https://github.com/Farama-Foundation/Gymnasium-Robotics) - A collection of robotics environments for Gymnasium running on Mujoco.
 - [Gazebo](http://gazebosim.org/) - A tool for building custom 3D robotics simulations.
 - [Mujoco](https://www.roboti.us/index.html) - A physics engine for robotics and biomechanics.
 - [Unity ML-Agents](https://github.com/Unity-Technologies/ml-agents) - Enables Unity games and simulations to be used as environments for RL.
 - [Unreal Learning Agents](https://dev.epicgames.com/community/learning/tutorials/8OWY/unreal-engine-learning-agents-introduction) - A plugin for Unreal Engine that allows you to train RL agents in Unreal Engine environments.
-- [OpenSpiel](https://github.com/google-deepmind/open_spiel)
+- [PettingZoo](https://github.com/Farama-Foundation/PettingZoo) - A library for multi-agent reinforcement learning environments.
+- [OpenSpiel](https://github.com/google-deepmind/open_spiel) - A collection of environments and algorithms for research in general reinforcement learning and search/planning in games.
+- [FinRL-Meta](https://github.com/AI4Finance-Foundation/FinRL-Meta) - A Metaverse of Market Environments and Benchmarks for Data-Driven Financial Reinforcement Learning.
+- [Luanti (formerly Minetest)](https://www.luanti.org/) - An open-source voxel game engine (similar to Minecraft) that can be used for RL research.
+- [XLandMinigrid](https://github.com/dunnolab/xland-minigrid) - A suite of tools, grid-world environments, and benchmarks for meta-reinforcement learning research inspired by the diversity and depth of XLand and the simplicity and minimalism of MiniGrid.
+
+## News
+
+Most of these sources are not specific to reinforcement learning but cover a wide range of AI topics, including RL.
+
+**X Accounts**
+
+- [@giffmana](https://x.com/giffmana) - Lucas Beyer, a researcher at OpenAI, formerly DeepMind and Google Brain.
+- [@deepseek_ai](https://x.com/deepseek_ai) - DeepSeek, a research group focused on LLM foundation models.
+- [@GoogleDeepMind](https://twitter.com/GoogleDeepMind) - DeepMind's official Twitter account.
+- [@OpenAI](https://twitter.com/OpenAI) - OpenAI's official Twitter account.
+
+**Podcasts**
