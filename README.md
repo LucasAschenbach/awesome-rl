@@ -26,7 +26,7 @@
 - [GATO: A Generalist Agent](https://arxiv.org/abs/2205.06175)
 - [RoboCat: A Self-Improving Generalist Agent for Robotic Manipulation](https://arxiv.org/abs/2306.11706)
 - [SIMA: Scaling Instructable Agents Across Many Simulated Worlds](https://arxiv.org/abs/2404.10179)
-- 
+- [RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control](https://robotics-transformer2.github.io/assets/rt2.pdf)
 
 **LLMs**
 
