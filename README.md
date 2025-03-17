@@ -21,8 +21,10 @@
 
 **Generalists**
 
+- [Emergent Tool Use From Multi-Agent Autocurricula](https://arxiv.org/abs/1909.07528)
 - [Generally capable agents emerge from open-ended play](https://arxiv.org/abs/2107.12808)
 - [GATO: A Generalist Agent](https://arxiv.org/abs/2205.06175)
+- [RoboCat: A Self-Improving Generalist Agent for Robotic Manipulation](https://arxiv.org/abs/2306.11706)
 - [SIMA: Scaling Instructable Agents Across Many Simulated Worlds](https://arxiv.org/abs/2404.10179)
 - 
 
@@ -89,7 +91,7 @@
 - [Gymnasium](https://gymnasium.farama.org/) - General-purpose interface for interacting with custom RL environments.
 - [Gymnasium-Robotics](https://github.com/Farama-Foundation/Gymnasium-Robotics) - A collection of robotics environments for Gymnasium running on Mujoco.
 - [Gazebo](http://gazebosim.org/) - A tool for building custom 3D robotics simulations.
-- [Mujoco](https://www.roboti.us/index.html) - A physics engine for robotics and biomechanics.
+- [MuJoCo](https://mujoco.org/) - A physics engine for robotics and biomechanics.
 - [Unity ML-Agents](https://github.com/Unity-Technologies/ml-agents) - Enables Unity games and simulations to be used as environments for RL.
 - [Unreal Learning Agents](https://dev.epicgames.com/community/learning/tutorials/8OWY/unreal-engine-learning-agents-introduction) - A plugin for Unreal Engine that allows you to train RL agents in Unreal Engine environments.
 - [PettingZoo](https://github.com/Farama-Foundation/PettingZoo) - A library for multi-agent reinforcement learning environments.
@@ -97,6 +99,8 @@
 - [FinRL-Meta](https://github.com/AI4Finance-Foundation/FinRL-Meta) - A Metaverse of Market Environments and Benchmarks for Data-Driven Financial Reinforcement Learning.
 - [Luanti (formerly Minetest)](https://www.luanti.org/) - An open-source voxel game engine (similar to Minecraft) that can be used for RL research.
 - [XLandMinigrid](https://github.com/dunnolab/xland-minigrid) - A suite of tools, grid-world environments, and benchmarks for meta-reinforcement learning research inspired by the diversity and depth of XLand and the simplicity and minimalism of MiniGrid.
+- [MuJoCo-Worldgen](https://github.com/openai/mujoco-worldgen) - A library for generating diverse and complex environments for RL research. (Unmaintained)
+- [Multi-Agent-Emergence-Environments](https://github.com/openai/multi-agent-emergence-environments) - A collection of environments for studying the emergence of communication and cooperation in multi-agent systems. (Unmaintained)
 
 ## News
 
