@@ -108,6 +108,9 @@
 - [PettingZoo](https://github.com/Farama-Foundation/PettingZoo) - A library for multi-agent reinforcement learning environments.
 - [OpenSpiel](https://github.com/google-deepmind/open_spiel) - A collection of environments and algorithms for research in general reinforcement learning and search/planning in games.
 - [FinRL-Meta](https://github.com/AI4Finance-Foundation/FinRL-Meta) - A Metaverse of Market Environments and Benchmarks for Data-Driven Financial Reinforcement Learning.
+- [RecSim](https://github.com/google-research/recsim) - A framework for simulating environments for recommender systems.
+- [CyberBattleSim](https://github.com/microsoft/CyberBattleSim) - A framework for building abstract simulations of complex computer networks and cyber security protocols.
+- [android_env](https://github.com/google-deepmind/android_env) - A Python library that exposes an Android device as a reinforcement learning environment.
 - [Luanti (formerly Minetest)](https://www.luanti.org/) - An open-source voxel game engine (similar to Minecraft) that can be used for RL research.
 - [XLandMinigrid](https://github.com/dunnolab/xland-minigrid) - A suite of tools, grid-world environments, and benchmarks for meta-reinforcement learning research inspired by the diversity and depth of XLand and the simplicity and minimalism of MiniGrid.
 - [MuJoCo-Worldgen](https://github.com/openai/mujoco-worldgen) - A library for generating diverse and complex environments for RL research. (Unmaintained)
