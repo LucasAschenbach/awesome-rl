@@ -12,8 +12,8 @@
   <a href="#publications"><strong>Publications</strong></a> ·
   <a href="#books"><strong>Books</strong></a> ·
   <a href="#courses"><strong>Courses</strong></a> ·
-  <a href="#resources"><strong>Resources</strong></a> ·
-  <a href="#news"><strong>News</strong></a>
+  <a href="#code"><strong>Code</strong></a>
+  <!-- <a href="#news"><strong>News</strong></a> -->
 </p>
 <br/>
 
@@ -25,8 +25,8 @@
 - [Generally capable agents emerge from open-ended play](https://arxiv.org/abs/2107.12808)
 - [GATO: A Generalist Agent](https://arxiv.org/abs/2205.06175)
 - [RoboCat: A Self-Improving Generalist Agent for Robotic Manipulation](https://arxiv.org/abs/2306.11706)
+- [RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control](https://arxiv.org/abs/2307.15818)
 - [SIMA: Scaling Instructable Agents Across Many Simulated Worlds](https://arxiv.org/abs/2404.10179)
-- 
 
 **LLMs**
 
@@ -50,6 +50,8 @@
 
 
 **Finance**
+
+
 
 ## Books
 
@@ -78,19 +80,25 @@
 - [Reinforcement Learning (PPO) with TorchRL](https://pytorch.org/tutorials/intermediate/reinforcement_ppo.html) from PyTorch
 
 
-## Resources
+## Code
 
 **ML-Libraries**
 
 - [PyTorch](https://pytorch.org/) - Most popular deep learning framework.
 - [TorchRL](https://pytorch.org/rl/stable/index.html) - Official reinforcement learning library for PyTorch.
 - [TRL - Transformer Reinforcement Learning](https://huggingface.co/docs/trl/en/index) - A library by Hugging Face to train transformer language models with Reinforcement Learning.
+- [DI-engine](https://github.com/opendilab/DI-engine) - A decision intelligence engine for PyTorch and JAX with implementations of various RL algorithms and environments.
+- [Stable Baselines3](https://stable-baselines3.readthedocs.io/en/master/) - A set of reliable implementations of RL algorithms in PyTorch.
+- [CleanRL](https://github.com/vwxyzjn/cleanrl) - A collection of high-quality implementations of RL algorithms in PyTorch.
+- [RLlib](https://docs.ray.io/en/latest/rllib/index.html) - A reinforcement learning library built for high scalability on Ray. (Not recommended for small-scale projects)
 
 **Gyms**
 
 - [Gymnasium](https://gymnasium.farama.org/) - General-purpose interface for interacting with custom RL environments.
 - [Gymnasium-Robotics](https://github.com/Farama-Foundation/Gymnasium-Robotics) - A collection of robotics environments for Gymnasium running on Mujoco.
 - [Gazebo](http://gazebosim.org/) - A tool for building custom 3D robotics simulations.
+- [pyBullet](https://pybullet.org/wordpress/) - A Python module for physics simulation for robotics.
+- [Nvidia Isaac Lab](https://developer.nvidia.com/isaac/lab) - A framework for creating GPU optimized 3D robotics simulations with Isaac Sim.
 - [MuJoCo](https://mujoco.org/) - A physics engine for robotics and biomechanics.
 - [Unity ML-Agents](https://github.com/Unity-Technologies/ml-agents) - Enables Unity games and simulations to be used as environments for RL.
 - [Unreal Learning Agents](https://dev.epicgames.com/community/learning/tutorials/8OWY/unreal-engine-learning-agents-introduction) - A plugin for Unreal Engine that allows you to train RL agents in Unreal Engine environments.
@@ -101,8 +109,12 @@
 - [XLandMinigrid](https://github.com/dunnolab/xland-minigrid) - A suite of tools, grid-world environments, and benchmarks for meta-reinforcement learning research inspired by the diversity and depth of XLand and the simplicity and minimalism of MiniGrid.
 - [MuJoCo-Worldgen](https://github.com/openai/mujoco-worldgen) - A library for generating diverse and complex environments for RL research. (Unmaintained)
 - [Multi-Agent-Emergence-Environments](https://github.com/openai/multi-agent-emergence-environments) - A collection of environments for studying the emergence of communication and cooperation in multi-agent systems. (Unmaintained)
+- [procgen](https://github.com/openai/procgen) - A suite of 16 reinforcement learning environments with procedurally generated levels, designed to benchmark generalization in RL agents. (Unmaintained)
+- [jumanji](https://github.com/instadeepai/jumanji) - A suite of 22 high-performance reinforcement learning environments written in JAX.
+- [SMAC](https://github.com/oxwhirl/smac) - A StarCraft II multi-agent reinforcement learning environment.
+- [gfootball](https://github.com/google-research/football) - A 3D soccer reinforcement learning environment based on the game "Gameplay Football" by the Google Brain team.
 
-## News
+<!-- ## News
 
 Most of these sources are not specific to reinforcement learning but cover a wide range of AI topics, including RL.
 
@@ -113,4 +125,4 @@ Most of these sources are not specific to reinforcement learning but cover a wid
 - [@GoogleDeepMind](https://twitter.com/GoogleDeepMind) - DeepMind's official Twitter account.
 - [@OpenAI](https://twitter.com/OpenAI) - OpenAI's official Twitter account.
 
-**Podcasts**
+**Podcasts** -->
