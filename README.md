@@ -110,6 +110,7 @@
 - [FinRL-Meta](https://github.com/AI4Finance-Foundation/FinRL-Meta) - A Metaverse of Market Environments and Benchmarks for Data-Driven Financial Reinforcement Learning.
 - [RecSim](https://github.com/google-research/recsim) - A framework for simulating environments for recommender systems.
 - [CyberBattleSim](https://github.com/microsoft/CyberBattleSim) - A framework for building abstract simulations of complex computer networks and cyber security protocols.
+- [gym-DSSAT](https://rgautron.gitlabpages.inria.fr/gym-dssat-docs/) - A Python wrapper for the Decision Support System for Agrotechnology Transfer (DSSAT) model, which simulates crop growth and yield.
 - [android_env](https://github.com/google-deepmind/android_env) - A Python library that exposes an Android device as a reinforcement learning environment.
 - [Luanti (formerly Minetest)](https://www.luanti.org/) - An open-source voxel game engine (similar to Minecraft) that can be used for RL research.
 - [XLandMinigrid](https://github.com/dunnolab/xland-minigrid) - A suite of tools, grid-world environments, and benchmarks for meta-reinforcement learning research inspired by the diversity and depth of XLand and the simplicity and minimalism of MiniGrid.
