@@ -71,6 +71,7 @@
 
 - [David Silver's Reinforcement Learning Course](https://www.davidsilver.uk/teaching/) at University College London
 - [CS234: Reinforcement Learning, Winter 2025](https://web.stanford.edu/class/cs234/index.html) at Stanford University
+- [CS285: Deep Reinforcement Learning](https://sites.google.com/view/berkeley-cs285/) at UC Berkeley
 - [CS330: Deep Multi-Task and Meta Learning](https://cs330.stanford.edu/) at Stanford University
 
 **Blogs**
