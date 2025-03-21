@@ -17,6 +17,8 @@
 </p>
 <br/>
 
+> Note: This repository is a work in progress. The code section is already quite comprehensive, but the publications and courses sections are still being populated. If you have any suggestions or contributions, please feel free to open an issue or pull request.
+
 ## Publications
 
 **Generalists**
