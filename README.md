@@ -27,6 +27,7 @@
 - [Generally capable agents emerge from open-ended play](https://arxiv.org/abs/2107.12808)
 - [GATO: A Generalist Agent](https://arxiv.org/abs/2205.06175)
 - [RoboCat: A Self-Improving Generalist Agent for Robotic Manipulation](https://arxiv.org/abs/2306.11706)
+- [DreamerV3: Mastering Diverse Domains through World Models](https://arxiv.org/abs/2301.04104)
 - [RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control](https://arxiv.org/abs/2307.15818)
 - [SIMA: Scaling Instructable Agents Across Many Simulated Worlds](https://arxiv.org/abs/2404.10179)
 
