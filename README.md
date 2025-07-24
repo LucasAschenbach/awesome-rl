@@ -115,6 +115,7 @@
 - [android_env](https://github.com/google-deepmind/android_env) - A Python library that exposes an Android device as a reinforcement learning environment.
 - [Luanti (formerly Minetest)](https://www.luanti.org/) - An open-source voxel game engine (similar to Minecraft) that can be used for RL research.
 - [XLandMinigrid](https://github.com/dunnolab/xland-minigrid) - A suite of tools, grid-world environments, and benchmarks for meta-reinforcement learning research inspired by the diversity and depth of XLand and the simplicity and minimalism of MiniGrid.
+- [MuJoCo Playground](https://github.com/google-deepmind/mujoco_playground) - A comprehensive suite of GPU-accelerated environments for robot learning research and sim-to-real, built with MuJoCo MJX.
 - [MuJoCo-Worldgen](https://github.com/openai/mujoco-worldgen) - A library for generating diverse and complex environments for RL research. (Unmaintained)
 - [Multi-Agent-Emergence-Environments](https://github.com/openai/multi-agent-emergence-environments) - A collection of environments for studying the emergence of communication and cooperation in multi-agent systems. (Unmaintained)
 - [procgen](https://github.com/openai/procgen) - A suite of 16 reinforcement learning environments with procedurally generated levels, designed to benchmark generalization in RL agents. (Unmaintained)
